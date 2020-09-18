@@ -6,7 +6,7 @@ function App() {
     
  <div id="page-wrap">
     
-        <img src="./Matt - Basecamp.jpg" alt="pic" id="pic" />
+        <img src="./photo.jpeg" alt="pic" id="pic" />
     
         <div id="contact-info" className="vcard">
         

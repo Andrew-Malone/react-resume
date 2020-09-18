@@ -6,9 +6,10 @@ body { font: 16px Helvetica, Sans-Serif; line-height: 24px; background-color: #f
 .clear { clear: both; }
 
 img{
-  height: 200px;
+  height: 230px;
   position: relative;
-  top: 20px;
+  top: 30px;
+  right: 25px;
   border: 1px solid #999;
 
 }
