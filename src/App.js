@@ -85,7 +85,7 @@ function App() {
                 <li>Piano</li>
                 <li>Table Tennis</li>
                 <li>Chess</li>
-                <li>Games</li>
+                <li>Playing Games</li>
               </ul> 
 
 
